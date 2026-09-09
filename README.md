@@ -4,6 +4,8 @@
 
 Real-time distributed elevator control for TTK4145, with shared state sync and distributed hall-call assignment.
 
+<img width="3104" height="2484" alt="ttk4145-elevator-state-machine-Module Diagram - v2 minimalistic drawio" src="https://github.com/user-attachments/assets/670b61ab-bf2b-47ce-9e21-4b5c65078f57" />
+
 ## Requirements
 
 - Go 1.20+
